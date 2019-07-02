@@ -1,0 +1,10 @@
+body {
+    background: url("grafika/background.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
+}
+div.containter {
+    width: 1140 px;
+    margin: auto;
+    padding: 0 15 px;
+}
